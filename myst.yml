@@ -16,6 +16,8 @@ project:
     - file: L1.md
     - file: L2.md
     - file: markdown-example.md
+    - file: notebook-demo.ipynb
+    - file: assignment-demo.ipynb
     
 site:
   template: book-theme
