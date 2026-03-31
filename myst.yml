@@ -19,6 +19,7 @@ project:
     - file: notebook-demo.ipynb
     - file: assignment-demo.ipynb
     - file: L3.ipynb
+    - file: L4.ipynb
     
 site:
   template: book-theme
