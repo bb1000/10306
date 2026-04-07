@@ -20,6 +20,7 @@ project:
     - file: assignment-demo.ipynb
     - file: L3.ipynb
     - file: L4.ipynb
+    - file: L5.ipynb
     
 site:
   template: book-theme

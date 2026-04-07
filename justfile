@@ -1,5 +1,7 @@
 start:
     uv run jupyter book start
+lab:
+    uv run jupyter lab
 init:
     uv run jupyter book init
 toc:
