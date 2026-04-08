@@ -21,6 +21,7 @@ project:
     - file: L3.ipynb
     - file: L4.ipynb
     - file: L5.ipynb
+    - file: L6.ipynb
     
 site:
   template: book-theme
