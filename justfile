@@ -1,3 +1,6 @@
+both:
+    uv run jupyter book start &
+    uv run jupyter lab &
 start:
     uv run jupyter book start
 lab:
