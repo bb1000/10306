@@ -28,6 +28,7 @@ project:
     - file: L10.ipynb
     - file: L11.ipynb
     - file: L12.ipynb
+    - file: L13.ipynb
     
 site:
   template: book-theme
